@@ -1,10 +1,9 @@
-import logo from './logo.svg';
-import './App.css';
+import Users from "./getUsers";
 
 function App() {
   return (
     <div className="App">
-      <h1>hello</h1>
+      <Users />
     </div>
   );
 }
